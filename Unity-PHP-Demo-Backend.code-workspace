@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../xampp/htdocs/Unity-PHP-Demo-Backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Aim Trainer (1).sln"
+	}
+}
